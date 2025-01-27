@@ -13,6 +13,7 @@ const Header = (props) => {
 
   return (
     <header>
+      <h3>Todo app</h3>
       <h1 className="text-gradient">
         You have {todoslength} open {taskOrTasks}.
       </h1>

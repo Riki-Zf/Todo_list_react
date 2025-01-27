@@ -113,6 +113,12 @@ hr {
   font-weight: 500;
 }
 
+.todo-date {
+  color: #ffffff90;
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
 .input-container {
   display: flex;
   align-items: center;
